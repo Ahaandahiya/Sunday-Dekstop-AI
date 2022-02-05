@@ -1,2 +1,2 @@
-# Sunday-Dekstop-AI
-Ai assistant
+# Sunday-AI
+# Sunday-AI
